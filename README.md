@@ -1,5 +1,10 @@
 # 🎯 Bulls and Cows - Number Guessing Game in C
 
+## 🙋‍♂ Author
+
+**Nafees Hossain**  
+I made this project in my **1st Semester**, but I had not uploaded it to GitHub until now. ))  
+
 Welcome to **Bulls and Cows**, a fun and challenging number guessing game built in the C programming language!  
 This is a terminal-based game where you try to guess a secret 4-digit number with **all unique digits**.  
 For every guess, you'll get hints in the form of:
